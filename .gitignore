@@ -1,0 +1,15 @@
+# Node.js
+frontend/node_modules/
+frontend/dist/
+.eslintcache
+
+# Java/Spring Boot
+backend/target/
+backend/.settings/
+backend/.classpath
+backend/.project
+backend/.factorypath
+
+# OS files
+.DS_Store
+Thumbs.db
