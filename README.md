@@ -1,4 +1,5 @@
 🎓 Student Management System (Full-Stack)
+
 A modern, full-stack administrative dashboard designed to manage student records with high efficiency. This project integrates a robust Spring Boot backend with a high-performance React (Vite) frontend, featuring real-time data synchronization and enterprise-grade reporting.
 
 🚀 Tech Stack
